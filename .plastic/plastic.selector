@@ -1,0 +1,4 @@
+repository "bird@ssl://wechat_os_qy0-zigtrf0kv1rmu0l5lmeqi@sh03-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/1282695462" 
+     
